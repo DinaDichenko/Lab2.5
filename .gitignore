@@ -13,6 +13,7 @@
 .idea/**/словари
 .idea/**/полка
 .idea/
+venv/
 
 # AWS User-specific
 .idea/**/aws.xml
